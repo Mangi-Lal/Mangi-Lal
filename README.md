@@ -1,5 +1,5 @@
 - Hello, I'm Mangi Lal
-- I'm currently pursuing B.tech
+- I'm currently pursuing B.tech at NIT Jalandhar 
 
 
 <!---
