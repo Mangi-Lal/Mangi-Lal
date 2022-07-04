@@ -10,7 +10,7 @@
 
 ---
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bp%2FyQTPOFTcm0UD%2BxRCokvw%3D%3D">
+  <a href="https://www.linkedin.com/in/mangi-lal-27b7751b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV%2BSmATJeS6qD26zbYcChJg%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/mangilal_036/">
