@@ -1,3 +1,5 @@
+### :student: 
+<h1> Mangi Lal</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MWRiRARGbMKBnErBHX/giphy.gif"/>
@@ -5,8 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=30F727&background=FFFFFF00&lines=Coding+Enthusiast+;Fronted+Web+Developer)](https://git.io/typing-svg)
 ---
-- Hello, I'm Mangi Lal
-- I'm currently pursuing B.tech at NIT Jalandhar 
+- Hello, There
+- I'm currently pursuing B.tech in Instrumentation and Control Engineering at NIT Jalandhar 
 
 ---
 <div id="badges" align="center">
