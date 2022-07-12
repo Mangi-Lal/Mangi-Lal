@@ -8,8 +8,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=30F727&background=FFFFFF00&lines=Coding+Enthusiast+;Fronted+Web+Developer)](https://git.io/typing-svg)
 ---
-- Hello, There
-- I'm currently pursuing B.tech in Instrumentation and Control Engineering at NIT Jalandhar 
+### :man_technologist: About Me :
+I am a Fronted Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mangi-lal-27b7751b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV%2BSmATJeS6qD26zbYcChJg%3D%3D)
 
 ---
 <div id="badges" align="center">
@@ -31,6 +36,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mangi-Lal&theme=tokyonight&fire=DD5B26)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mangi-Lal&theme=tokyonight&fire=DD5B26)](https://git.io/streak-stats)-->
 ![Mangi Lal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangi-Lal&show_icons=true&theme=onedark)<br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangi-Lal&layout=compact)](https://github.com/Mangi-Lal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangi-Lal&layout=compact&theme=vision-friendly-dark)](https://github.com/Mangi-Lal/github-readme-stats)
+
