@@ -42,3 +42,19 @@ I am a Fronted Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ![Mangi Lal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangi-Lal&show_icons=true&theme=onedark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangi-Lal&layout=compact&theme=vision-friendly-dark)](https://github.com/Mangi-Lal/github-readme-stats)
 
+### :pushpin: Languages:
+
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+---
+### :sparkles: Prototyping Platforms:
+<div>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+---
