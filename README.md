@@ -32,3 +32,5 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mangi-Lal&theme=tokyonight&fire=DD5B26)](https://git.io/streak-stats)
+![Mangi Lal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangi-Lal&show_icons=true&theme=onedark)<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangi-Lal&layout=compact)](https://github.com/Mangi-Lal/github-readme-stats)
