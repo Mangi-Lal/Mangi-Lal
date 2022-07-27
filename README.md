@@ -1,5 +1,4 @@
 <!--:tada: :fireworks: :christmas_tree: :ribbon: :cricket_game: :dart: :hearts: :gift: :sparkles: :gem::loud_sound: :briefcase: :balance_scale: :pushpin: :heavy_check_mark: :atom:-->
-### :wave::cowboy_hat_face:
 <h1>:mortar_board: Mangi Lal</h1>
 
 <div align="center">
